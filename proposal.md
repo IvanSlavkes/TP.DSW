@@ -17,9 +17,7 @@ Una aplicación para encontrar equipo o rival para un partido de futbol.
 Un "Admin" crea la sala y los demas se pueden unir / solicitar unirse para jugar ese partido.
 
 ### Modelo
-![<img width="1132" height="1070" alt="diagrama" src="https://github.com/user-attachments/assets/11755f96-a5ca-4611-b928-1e443ec4ca4e" />]()
-
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
+![Diagrama](https://github.com/user-attachments/assets/11755f96-a5ca-4611-b928-1e443ec4ca4e)
 
 ## Alcance Funcional 
 
